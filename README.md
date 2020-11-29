@@ -11,7 +11,7 @@
 ![Gayeon's github stats](https://github-readme-stats.vercel.app/api?username=Gayeoon&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&include_all_commits=true)
 
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=rkdus1177)](https://solved.ac/rkdus1177)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=rkdus1177@naver.com)](https://solved.ac/rkdus1177)
 
 
 **Languages and Tools:**  
